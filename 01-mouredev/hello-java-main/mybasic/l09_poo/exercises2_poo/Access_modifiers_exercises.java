@@ -118,6 +118,16 @@ public class Access_modifiers_exercises {
         System.out.println("--- Actualizando salario ---");
         employee1.raiseSalary(10);
 
+        // 8. Crea una clase Rectangle con los atributos privados width y height. Agrega
+        // setters y el método_ calculateArea() que devuelva el resultado de width *
+        // height.
+
+        System.out.println("\n=== EJERCICIO 8: Rectangle ===");
+        var rectangle1 = new Rectangle(5.0,3.0);
+        System.out.println(rectangle1.calculateArea());
+        System.out.println(rectangle1.calculatePerimeter());
+        System.out.println(rectangle1.calculateDiagonal());
+
         System.out.println("\n=== FIN DE PRUEBAS ===");
     }
 }

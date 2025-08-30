@@ -36,7 +36,7 @@ public class Employee {
             System.out.println("El salario tiene que ser mayor a cero");
         }
     }
-    // Método_ para aumentar el salario - Opción 1: void (modifica el salario directamente)
+    // Método_ para aumentar el salario (modifica el salario directamente)
     public void raiseSalary(double percent) {
         if (percent > 0) {
             this.salary = this.salary * (1 + percent / 100);
