@@ -1,4 +1,4 @@
-package mybasic.l09_poo.exercices1_poo_class;
+package mybasic.l09_poo.exercises1_poo_class;
 
 // 6. Crea una clase BankAccount con atributo balance y un método_ deposit() que
 // sume el saldo.

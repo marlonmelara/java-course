@@ -1,4 +1,4 @@
-package mybasic.l09_poo.exercices1_poo_class;
+package mybasic.l09_poo.exercises1_poo_class;
 
 // 1. Crea una clase Book con atributos title y author. Crea un objeto y muestra
 // sus datos.
