@@ -32,7 +32,7 @@
         // setGrade(int grade) y isPassed() que retorne true si la nota es mayor o igual
         // a 60.
 
-        // 10. Crea una clase Car con el atributo privado speed. Agrega los mÃ©todos
+        // 10. Crea una clase Car con el atributo privado speed. Agrega los métodos
         // accelerate(int amount) que aumente la velocidad (máximo 120) y brake(int
         // amount) que reduzca la velocidad (mínimo 0).
 

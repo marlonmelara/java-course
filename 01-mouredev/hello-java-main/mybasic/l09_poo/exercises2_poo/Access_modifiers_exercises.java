@@ -128,6 +128,14 @@ public class Access_modifiers_exercises {
         System.out.println(rectangle1.calculatePerimeter());
         System.out.println(rectangle1.calculateDiagonal());
 
+        // 9. Crea una clase Student con el atributo privado grade. Agrega los métodos
+        // setGrade(int grade) y isPassed() que retorne true si la nota es mayor o igual
+        // a 60.
+
+        System.out.println("\n=== EJERCICIO 9: Student ===");
+
+
+
         System.out.println("\n=== FIN DE PRUEBAS ===");
     }
 }
