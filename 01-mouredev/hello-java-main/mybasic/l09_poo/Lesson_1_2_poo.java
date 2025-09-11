@@ -1,6 +1,6 @@
 package mybasic.l09_poo;
 
-public class Lesson_poo {
+public class Lesson_1_2_poo {
     public static void main(String[] args) {
         System.out.println("Hello");
 
