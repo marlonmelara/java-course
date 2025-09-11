@@ -1,7 +1,4 @@
-package mybasic.l09_poo.exercises2_poo;
-
-import java.util.HashMap;
-import java.util.Map;
+package mybasic.l09_poo.exercises2_poo_modifiers;
 
 // 8. Crea una clase Rectangle con los atributos privados width y height. Agrega
 // setters y el método_ calculateArea() que devuelva el resultado de width *

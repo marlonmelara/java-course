@@ -1,4 +1,4 @@
-package mybasic.l09_poo.exercises2_poo;
+package mybasic.l09_poo.exercises2_poo_modifiers;
 
 // 4. Crea una clase Book con el atributo privado title. Permite leerlo con el
 // método_ getTitle() pero no modificarlo (sin setTitle()). El título debe

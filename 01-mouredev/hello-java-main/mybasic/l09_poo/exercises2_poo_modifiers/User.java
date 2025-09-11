@@ -1,4 +1,4 @@
-package mybasic.l09_poo.exercises2_poo;
+package mybasic.l09_poo.exercises2_poo_modifiers;
 
 // 6. Crea una clase User con los atributos privados username y password.
 // Implementa los métodos setUsername(String username), setPassword(String

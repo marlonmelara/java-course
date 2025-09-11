@@ -1,4 +1,4 @@
-package mybasic.l09_poo.exercises2_poo;
+package mybasic.l09_poo.exercises2_poo_modifiers;
 
 // 7. Crea una clase Employee con el atributo privado salary. Agrega el método_
 // raiseSalary(double percent) que solo permita aumentos positivos.

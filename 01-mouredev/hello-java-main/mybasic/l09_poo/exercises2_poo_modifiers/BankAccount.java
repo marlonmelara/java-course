@@ -1,4 +1,4 @@
-package mybasic.l09_poo.exercises2_poo;
+package mybasic.l09_poo.exercises2_poo_modifiers;
 
 // 3. Crea una clase BankAccount con el atributo privado balance. Implementa los
 // métodos deposit(double amount) y withdraw(double amount) que validen las

@@ -1,4 +1,4 @@
-package mybasic.l09_poo.exercises2_poo;
+package mybasic.l09_poo.exercises2_poo_modifiers;
 
 public class Access_modifiers_exercises {
     public static void main(String[] args) {

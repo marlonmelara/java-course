@@ -1,4 +1,4 @@
-package mybasic.l09_poo.exercises2_poo;
+package mybasic.l09_poo.exercises2_poo_modifiers;
 
 // 1. Crea una clase Person con atributos privados name y age. Usa los métodos
 // getName(), setName(), getAge() y setAge() para asignar y mostrar valores

@@ -1,4 +1,4 @@
-package mybasic.l09_poo.exercises2_poo;
+package mybasic.l09_poo.exercises2_poo_modifiers;
 
 // 5. Crea una clase Temperature con el atributo privado celsius. El método_
 // setCelsius(double celsius) solo debe aceptar valores entre -100 y 100.

@@ -1,4 +1,4 @@
-package mybasic.l09_poo.exercises2_poo;
+package mybasic.l09_poo.exercises2_poo_modifiers;
 
 // 9. Crea una clase Student con el atributo privado grade. Agrega los métodos
 // setGrade(int grade) y isPassed() que retorne true si la nota es mayor o igual

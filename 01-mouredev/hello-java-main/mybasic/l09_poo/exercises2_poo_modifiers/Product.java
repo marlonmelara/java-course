@@ -1,4 +1,4 @@
-package mybasic.l09_poo.exercises2_poo;
+package mybasic.l09_poo.exercises2_poo_modifiers;
 
 // 2. Crea una clase Product con el atributo privado price. Añade el método_
 // setPrice(double price) que solo permita precios mayores a 0.

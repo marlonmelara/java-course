@@ -1,8 +1,7 @@
-package mybasic.l09_poo.exercises2_poo;
+package mybasic.l09_poo.exercises2_poo_modifiers;
 
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Objects;
 
 public class Book2 {
     //Attributes
