@@ -1,4 +1,4 @@
-package mybasic.l09_poo.exercices1_poo;
+package mybasic.l09_poo.exercices1_poo_class;
 
 // 7. Crea una clase Rectangle con métodos para calcular el Área y el perímetro.
 public class Rectangle {

@@ -1,4 +1,4 @@
-package mybasic.l09_poo.exercices1_poo;
+package mybasic.l09_poo.exercices1_poo_class;
 
 // 9. Crea varios objetos Person y guárdalos en un ArrayList.
 public class Person {

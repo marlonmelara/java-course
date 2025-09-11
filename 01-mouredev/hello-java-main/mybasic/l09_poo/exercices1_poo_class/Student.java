@@ -1,4 +1,4 @@
-package mybasic.l09_poo.exercices1_poo;
+package mybasic.l09_poo.exercices1_poo_class;
 
 // 5. Crea una clase Student con atributo score y un método_ que diga si aprobó.
 public class Student {

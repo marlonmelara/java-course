@@ -1,4 +1,4 @@
-package mybasic.l09_poo.exercices1_poo;
+package mybasic.l09_poo.exercices1_poo_class;
 // 8. Crea una clase Worker que reciba nombre y salario, y un método_ para
 // mostrar su salario.
 

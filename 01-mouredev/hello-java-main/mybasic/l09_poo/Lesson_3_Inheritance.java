@@ -1,6 +1,6 @@
 package mybasic.l09_poo;
 
-public class Inheritance {
+public class Lesson_Inheritance {
     public static void main(String[] args) {
 
         // Creación de instancias y demostración de herencia

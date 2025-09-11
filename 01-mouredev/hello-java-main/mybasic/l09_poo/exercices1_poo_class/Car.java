@@ -1,4 +1,4 @@
-package mybasic.l09_poo.exercices1_poo;
+package mybasic.l09_poo.exercices1_poo_class;
 
 // 4. Crea una clase Car con atributos brand y model y un método_ showData().
 public class Car {

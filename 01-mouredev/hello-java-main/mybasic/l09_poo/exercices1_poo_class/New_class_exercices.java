@@ -1,4 +1,4 @@
-package mybasic.l09_poo.exercices1_poo;
+package mybasic.l09_poo.exercices1_poo_class;
 
 import java.util.ArrayList;
 
@@ -6,19 +6,19 @@ public class New_class_exercices {
     public static void main(String[] args) {
         // 1. Crea una clase Book con atributos title y author. Crea un objeto y muestra
         // sus datos.
-        var book1 = new Book ("La Iliada", "Homero");
+        var book1 = new Book("La Iliada", "Homero");
         System.out.println(book1.title + " de " + book1.author);
 
         // 2. Crea una clase Dog con un método_ bark() que imprima su sonido.
-        var dog1 = new Dog ("Snoopy");
+        var dog1 = new Dog("Snoopy");
         dog1.bark();
 
         // 3. Añade un constructor a la clase Book que reciba title y author.
-        var book2 = new Book ("El Señor de los anillos", "J.R. Tolkien");
+        var book2 = new Book("El Señor de los anillos", "J.R. Tolkien");
         book2.showInfo();
 
         // 4. Crea una clase Car con atributos brand y model y un método_ showData().
-        var car1 = new Car ("Toyota", "Tercel");
+        var car1 = new Car("Toyota", "Tercel");
         car1.showData();
 
         // 5. Crea una clase Student con atributo score y un método_ que diga si aprobó.

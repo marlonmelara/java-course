@@ -1,4 +1,4 @@
-package mybasic.l09_poo.exercices1_poo;
+package mybasic.l09_poo.exercices1_poo_class;
 
 // 10. Crea una clase Product y un método_ que aplique un descuento sobre su
 // precio.
