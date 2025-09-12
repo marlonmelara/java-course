@@ -32,7 +32,7 @@ public class InheritanceExercisesCode {
         System.out.println("Edad: " + student.getAge());
         System.out.println("Calificación: " + student.getGrade());
 
-        System.out.println("\n=== EJERCICIO 3: Dog ===");
+        System.out.println("\n=== EJERCICIO 3: Dog & Cat ===");
 
         var dog = new Dog("Snoopy");
         var cat = new Cat("Garfield");
@@ -53,5 +53,12 @@ public class InheritanceExercisesCode {
         manager.introduce();
         System.out.println("Departamento: " + manager.getDepartment());
 
+        System.out.println("\n=== EJERCICIO 5: Circle & Rectangle ===");
+
+        Circle circle = new Circle(5.0);
+        System.out.println("Área del cálculo: " + circle.calculateArea());
+
+        Rectangle rectangle = new Rectangle(10, 5);
+        System.out.println("Área del rectangulo: " + rectangle.calculateArea());
     }
 }
