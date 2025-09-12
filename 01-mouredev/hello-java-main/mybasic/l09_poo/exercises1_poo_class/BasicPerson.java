@@ -1,20 +1,19 @@
 package mybasic.l09_poo.exercises1_poo_class;
 
 // 9. Crea varios objetos Person y guárdalos en un ArrayList.
-public class Person {
-    // Attributes
-    private String name;
-    private int age;
+public class BasicPerson {
+    // Attributes - PÚBLICOS para acceso desde otros paquetes
+    public String name;
+    public int age;
+
     // Constructor
-    public Person(String name, int age) {
+    public BasicPerson(String name, int age) {
         this.name = name;
         this.age = age;
     }
+
     // Methods
     public void sayHello() {
         System.out.println("Hola, soy " + name + " y tengo " + age + " años.");
     }
 }
-
-
-

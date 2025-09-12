@@ -44,13 +44,13 @@ public class New_class_exercices {
         worker1.showInfoWorker();
 
         // 9. Crea varios objetos Person y guárdalos en un ArrayList.
-        ArrayList<Person> people = new ArrayList<>();
+        ArrayList<BasicPerson> people = new ArrayList<>();
 
-        people.add(new Person("Charlie", 8));
-        people.add(new Person("Linus", 7));
+        people.add(new BasicPerson("Charlie", 8));
+        people.add(new BasicPerson("Linus", 7));
 
         System.out.println("Lista de personas:");
-        for (Person person: people){
+        for (BasicPerson person: people){
             person.sayHello();
         }
 

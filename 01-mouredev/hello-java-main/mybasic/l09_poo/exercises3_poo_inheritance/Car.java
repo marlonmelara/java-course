@@ -7,7 +7,7 @@ public class Car extends Vehicle {
         super(brand, model);  // Llama al constructor del padre
     }
 
-    // Método específico de Car
+    // Metodo específico de Car
     public void honk() {
         System.out.println("Beep, beep");
     }
