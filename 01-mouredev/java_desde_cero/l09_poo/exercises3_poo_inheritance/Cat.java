@@ -7,7 +7,7 @@ public class Cat extends Animal {
     }
     // Metodo específico de Cat
     @Override
-    public void makeSound(){
+    public void makeSound() {
         System.out.println(name + " dice: Meow");
     }
 }

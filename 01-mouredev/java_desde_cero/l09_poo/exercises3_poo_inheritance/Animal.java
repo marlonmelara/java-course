@@ -16,7 +16,6 @@ public class Animal {
     public void makeSound(){
         System.out.println(name + " dice: algo");
     }
-
     // Getters
     public String getName(){
         return name;

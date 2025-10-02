@@ -60,5 +60,22 @@ public class InheritanceExercisesCode {
 
         Rectangle rectangle = new Rectangle(10, 5);
         System.out.println("Área del rectángulo: " + rectangle.calculateArea());
+
+        System.out.println("\n=== EJERCICIO 6: Eagle ===");
+
+        // Crear instancia de Eagle
+        var eagle = new Eagle ("águila");
+
+        // Usar metodos específicos de eagle
+        eagle.fly();
+
+        System.out.println("\n=== EJERCICIO 7: Device Status ===");
+
+        // Crear instancia de Phone
+        var iphone = new Phone("iPhone");
+
+        // Usar metodos específicos de phone
+        iphone.statusInfo();
+
     }
 }
